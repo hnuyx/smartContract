@@ -6,8 +6,8 @@ epel: the third source package
 ntp: time sync
 
 tools: epel-release, ntp, git, wget, bzip2, vim, gcc-c++, nodejs, cmake
-# yum install epel-release
-# yum install ntp
+## yum install epel-release
+## yum install ntp
 
 2. install golang 1.9
 # wget https://storage.googleapis.com/golang/go1.9.linux-amd64.tar.gz
